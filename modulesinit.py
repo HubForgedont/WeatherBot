@@ -1,0 +1,3 @@
+"""
+WeatherBot modules package
+"""

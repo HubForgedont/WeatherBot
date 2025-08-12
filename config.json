@@ -1,0 +1,10 @@
+{
+  "locations": ["New York", "London", "Tokyo"],
+  "update_frequency": "daily",
+  "notification_methods": ["email", "push"],
+  "alert_thresholds": {
+    "temperature_high": 95,
+    "temperature_low": 32,
+    "precipitation_chance": 70
+  }
+}
