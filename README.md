@@ -3,8 +3,6 @@
 
 WeatherBot is an automated weather reporting and reminder system that provides real-time weather updates, daily forecasts, and severe weather alerts through customizable notifications.
 
-![WeatherBot Banner](https://via.placeholder.com/800x200?text=WeatherBot)
-
 ## 🌟 Features
 
 - **Real-time Weather Data**: Fetches current weather conditions from OpenWeatherMap API
